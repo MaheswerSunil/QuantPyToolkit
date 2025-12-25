@@ -1,0 +1,10 @@
+[project]
+name = "QuantPyToolkit"
+version = "0.1.0"
+description = "Starter quant SDK for Python — data and analytics."
+authors = [{ name="Maheswer", email="maheswersunil@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.urls]
+"Homepage" = "https://https://github.com/MaheswerSunil/QuantPyToolkit"
