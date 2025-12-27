@@ -1,0 +1,3 @@
+from exptests.test_analytics import test_compute_returns_and_volatility
+test_compute_returns_and_volatility()
+print("Execution complete")

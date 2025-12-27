@@ -1,5 +1,5 @@
 import pandas as pd
-from quantpytoolkit.analytics import compute_returns, compute_volatility
+from src.quantpytoolkit.analytics import compute_returns, compute_volatility
 
 def test_compute_returns_and_volatility():
     prices = pd.DataFrame({"Close": [100, 101, 102, 104]})
