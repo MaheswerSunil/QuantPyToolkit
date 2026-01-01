@@ -7,3 +7,4 @@ def test_compute_returns_and_volatility():
     vol = compute_volatility(returns)
     assert len(returns) == 3
     assert vol >= 0
+    return returns, vol
